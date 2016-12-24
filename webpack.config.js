@@ -8,6 +8,7 @@ module.exports = {
     root: __dirname,
     alias: {
       About: 'app/components/About.js',
+      Examples: 'app/components/Examples.js',
       Main: 'app/components/Main.js',
       Nav: 'app/components/Nav.js',
       Weather: 'app/components/Weather.js',
